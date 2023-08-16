@@ -2,6 +2,13 @@
 
 This is a simple Selfie App written in Python using the Tkinter GUI library and OpenCV for camera access. The app allows users to capture selfies using their computer's camera and stores them along with user information in an Excel file.
 
+## Project Details
+### pythonProject10
+The **pythonProject10** directory contains code specifically tailored for mobile phone applications. Developers seeking to integrate the selfie camera feature into their mobile apps can utilize this project as a reference. The codebase is optimized for mobile environments, ensuring efficient usage of resources and compatibility with varying screen sizes and device specifications.
+
+### pythonProject9
+For developers aiming to implement the selfie camera feature across both mobile phones and laptops, the **pythonProject9** directory provides suitable code. This project is designed to be versatile, enabling the same functionality to be seamlessly integrated into applications on multiple devices. By utilizing this codebase, developers can ensure consistent user experiences across different platforms.
+
 ## Features
 
 * Capture selfies using your camera.
